@@ -1,0 +1,6 @@
+{
+  "name": "PakFuel Crisis Tracker",
+  "description": "Real-time petrol prices and crisis analysis for Pakistan. Tracks latest rates, news, and provides a cost calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
